@@ -1,0 +1,15 @@
+C:\Code\Chapter02\Chapter02\Variables\bin\Debug\net6.0\Variables.exe
+C:\Code\Chapter02\Chapter02\Variables\bin\Debug\net6.0\Variables.deps.json
+C:\Code\Chapter02\Chapter02\Variables\bin\Debug\net6.0\Variables.runtimeconfig.json
+C:\Code\Chapter02\Chapter02\Variables\bin\Debug\net6.0\Variables.dll
+C:\Code\Chapter02\Chapter02\Variables\bin\Debug\net6.0\Variables.pdb
+C:\Code\Chapter02\Chapter02\Variables\obj\Debug\net6.0\Variables.csproj.AssemblyReference.cache
+C:\Code\Chapter02\Chapter02\Variables\obj\Debug\net6.0\Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Chapter02\Chapter02\Variables\obj\Debug\net6.0\Variables.AssemblyInfoInputs.cache
+C:\Code\Chapter02\Chapter02\Variables\obj\Debug\net6.0\Variables.AssemblyInfo.cs
+C:\Code\Chapter02\Chapter02\Variables\obj\Debug\net6.0\Variables.csproj.CoreCompileInputs.cache
+C:\Code\Chapter02\Chapter02\Variables\obj\Debug\net6.0\Variables.dll
+C:\Code\Chapter02\Chapter02\Variables\obj\Debug\net6.0\refint\Variables.dll
+C:\Code\Chapter02\Chapter02\Variables\obj\Debug\net6.0\Variables.pdb
+C:\Code\Chapter02\Chapter02\Variables\obj\Debug\net6.0\Variables.genruntimeconfig.cache
+C:\Code\Chapter02\Chapter02\Variables\obj\Debug\net6.0\ref\Variables.dll
