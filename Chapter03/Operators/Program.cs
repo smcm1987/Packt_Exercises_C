@@ -9,10 +9,12 @@
 
 int e = 11;
 int f = 3;
-WriteLine($"e is {e}, f is {f}");
+double g = 11.0;
+WriteLine($"e is {e}, f is {f}, g is {g:N1}");
 WriteLine($"e + f = {e + f}");
 WriteLine($"e - f = {e - f}");
 WriteLine($"e * f = {e * f}");
 WriteLine($"e / f = {e / f}");
+WriteLine($"g / f = {g / f}");
 WriteLine($"e % f = {e % f}");
 

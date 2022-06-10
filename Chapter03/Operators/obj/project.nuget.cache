@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "He5GfFdl7Z8YO4FvRck4S7RuhhmwGKYw4Q11tjCDBG1SkqLPMOJB2+WeCNq8Ti3vG8pAK/LBO7e2+hpqkXXLuQ==",
+  "dgSpecHash": "hJ86a2VlqcwOGFqnz4iF3Unrv3ToQ8JJOxEJcAkt8G+/Mei8KiuN9ozAkVhCygecHXk3lb0gChXl4YNCRPDqAg==",
   "success": true,
-  "projectFilePath": "C:\\Code\\Chapter03\\Operators\\Operators.csproj",
+  "projectFilePath": "C:\\Code\\Packt_Exercises_C\\Chapter03\\Operators\\Operators.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
