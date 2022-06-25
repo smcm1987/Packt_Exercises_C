@@ -1,0 +1,10 @@
+id: Operators
+language: CSharp
+name:
+  Default: Operators
+qualifiedName:
+  Default: Operators
+type: Assembly
+modifiers: {}
+items: []
+references: {}

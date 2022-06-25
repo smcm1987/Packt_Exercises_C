@@ -1,0 +1,10 @@
+id: CastingConverting
+language: CSharp
+name:
+  Default: CastingConverting
+qualifiedName:
+  Default: CastingConverting
+type: Assembly
+modifiers: {}
+items: []
+references: {}

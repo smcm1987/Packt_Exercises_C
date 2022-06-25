@@ -1,0 +1,10 @@
+id: BooleanOperators
+language: CSharp
+name:
+  Default: BooleanOperators
+qualifiedName:
+  Default: BooleanOperators
+type: Assembly
+modifiers: {}
+items: []
+references: {}

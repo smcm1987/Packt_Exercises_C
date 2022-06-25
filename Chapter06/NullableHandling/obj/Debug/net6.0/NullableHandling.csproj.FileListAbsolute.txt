@@ -1,0 +1,15 @@
+C:\Code\Packt_Exercises_C\Chapter06\NullableHandling\bin\Debug\net6.0\NullableHandling.exe
+C:\Code\Packt_Exercises_C\Chapter06\NullableHandling\bin\Debug\net6.0\NullableHandling.deps.json
+C:\Code\Packt_Exercises_C\Chapter06\NullableHandling\bin\Debug\net6.0\NullableHandling.runtimeconfig.json
+C:\Code\Packt_Exercises_C\Chapter06\NullableHandling\bin\Debug\net6.0\NullableHandling.dll
+C:\Code\Packt_Exercises_C\Chapter06\NullableHandling\bin\Debug\net6.0\NullableHandling.pdb
+C:\Code\Packt_Exercises_C\Chapter06\NullableHandling\obj\Debug\net6.0\NullableHandling.csproj.AssemblyReference.cache
+C:\Code\Packt_Exercises_C\Chapter06\NullableHandling\obj\Debug\net6.0\NullableHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Packt_Exercises_C\Chapter06\NullableHandling\obj\Debug\net6.0\NullableHandling.AssemblyInfoInputs.cache
+C:\Code\Packt_Exercises_C\Chapter06\NullableHandling\obj\Debug\net6.0\NullableHandling.AssemblyInfo.cs
+C:\Code\Packt_Exercises_C\Chapter06\NullableHandling\obj\Debug\net6.0\NullableHandling.csproj.CoreCompileInputs.cache
+C:\Code\Packt_Exercises_C\Chapter06\NullableHandling\obj\Debug\net6.0\NullableHandling.dll
+C:\Code\Packt_Exercises_C\Chapter06\NullableHandling\obj\Debug\net6.0\refint\NullableHandling.dll
+C:\Code\Packt_Exercises_C\Chapter06\NullableHandling\obj\Debug\net6.0\NullableHandling.pdb
+C:\Code\Packt_Exercises_C\Chapter06\NullableHandling\obj\Debug\net6.0\NullableHandling.genruntimeconfig.cache
+C:\Code\Packt_Exercises_C\Chapter06\NullableHandling\obj\Debug\net6.0\ref\NullableHandling.dll

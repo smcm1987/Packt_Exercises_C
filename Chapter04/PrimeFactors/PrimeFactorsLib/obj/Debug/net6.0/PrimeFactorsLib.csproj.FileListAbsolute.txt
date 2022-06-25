@@ -1,0 +1,12 @@
+C:\Code\Packt_Exercises_C\Chapter04\PrimeFactors\PrimeFactorsLib\bin\Debug\net6.0\PrimeFactorsLib.deps.json
+C:\Code\Packt_Exercises_C\Chapter04\PrimeFactors\PrimeFactorsLib\bin\Debug\net6.0\PrimeFactorsLib.dll
+C:\Code\Packt_Exercises_C\Chapter04\PrimeFactors\PrimeFactorsLib\bin\Debug\net6.0\PrimeFactorsLib.pdb
+C:\Code\Packt_Exercises_C\Chapter04\PrimeFactors\PrimeFactorsLib\obj\Debug\net6.0\PrimeFactorsLib.csproj.AssemblyReference.cache
+C:\Code\Packt_Exercises_C\Chapter04\PrimeFactors\PrimeFactorsLib\obj\Debug\net6.0\PrimeFactorsLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Packt_Exercises_C\Chapter04\PrimeFactors\PrimeFactorsLib\obj\Debug\net6.0\PrimeFactorsLib.AssemblyInfoInputs.cache
+C:\Code\Packt_Exercises_C\Chapter04\PrimeFactors\PrimeFactorsLib\obj\Debug\net6.0\PrimeFactorsLib.AssemblyInfo.cs
+C:\Code\Packt_Exercises_C\Chapter04\PrimeFactors\PrimeFactorsLib\obj\Debug\net6.0\PrimeFactorsLib.csproj.CoreCompileInputs.cache
+C:\Code\Packt_Exercises_C\Chapter04\PrimeFactors\PrimeFactorsLib\obj\Debug\net6.0\PrimeFactorsLib.dll
+C:\Code\Packt_Exercises_C\Chapter04\PrimeFactors\PrimeFactorsLib\obj\Debug\net6.0\refint\PrimeFactorsLib.dll
+C:\Code\Packt_Exercises_C\Chapter04\PrimeFactors\PrimeFactorsLib\obj\Debug\net6.0\PrimeFactorsLib.pdb
+C:\Code\Packt_Exercises_C\Chapter04\PrimeFactors\PrimeFactorsLib\obj\Debug\net6.0\ref\PrimeFactorsLib.dll

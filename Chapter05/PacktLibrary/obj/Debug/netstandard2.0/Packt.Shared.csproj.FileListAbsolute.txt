@@ -1,0 +1,5 @@
+C:\Code\Packt_Exercises_C\Chapter05\PacktLibrary\obj\Debug\netstandard2.0\Packt.Shared.csproj.AssemblyReference.cache
+C:\Code\Packt_Exercises_C\Chapter05\PacktLibrary\obj\Debug\netstandard2.0\Packt.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Packt_Exercises_C\Chapter05\PacktLibrary\obj\Debug\netstandard2.0\Packt.Shared.AssemblyInfoInputs.cache
+C:\Code\Packt_Exercises_C\Chapter05\PacktLibrary\obj\Debug\netstandard2.0\Packt.Shared.AssemblyInfo.cs
+C:\Code\Packt_Exercises_C\Chapter05\PacktLibrary\obj\Debug\netstandard2.0\Packt.Shared.csproj.CoreCompileInputs.cache

@@ -1,0 +1,1 @@
+C:\Code\Packt_Exercises_C\Chapter07\DotNetEverywhere\bin\Release\net6.0\win10-x64\publish\DotNetEverywhere.exe

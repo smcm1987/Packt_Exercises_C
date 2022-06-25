@@ -1,0 +1,13 @@
+C:\Code\Packt_Exercises_C\Chapter07\DotNetEverywhere\bin\Release\net6.0\win10-x64\DotNetEverywhere.exe
+C:\Code\Packt_Exercises_C\Chapter07\DotNetEverywhere\bin\Release\net6.0\win10-x64\DotNetEverywhere.deps.json
+C:\Code\Packt_Exercises_C\Chapter07\DotNetEverywhere\bin\Release\net6.0\win10-x64\DotNetEverywhere.runtimeconfig.json
+C:\Code\Packt_Exercises_C\Chapter07\DotNetEverywhere\bin\Release\net6.0\win10-x64\DotNetEverywhere.dll
+C:\Code\Packt_Exercises_C\Chapter07\DotNetEverywhere\obj\Release\net6.0\win10-x64\DotNetEverywhere.csproj.AssemblyReference.cache
+C:\Code\Packt_Exercises_C\Chapter07\DotNetEverywhere\obj\Release\net6.0\win10-x64\DotNetEverywhere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Packt_Exercises_C\Chapter07\DotNetEverywhere\obj\Release\net6.0\win10-x64\DotNetEverywhere.AssemblyInfoInputs.cache
+C:\Code\Packt_Exercises_C\Chapter07\DotNetEverywhere\obj\Release\net6.0\win10-x64\DotNetEverywhere.AssemblyInfo.cs
+C:\Code\Packt_Exercises_C\Chapter07\DotNetEverywhere\obj\Release\net6.0\win10-x64\DotNetEverywhere.csproj.CoreCompileInputs.cache
+C:\Code\Packt_Exercises_C\Chapter07\DotNetEverywhere\obj\Release\net6.0\win10-x64\DotNetEverywhere.dll
+C:\Code\Packt_Exercises_C\Chapter07\DotNetEverywhere\obj\Release\net6.0\win10-x64\refint\DotNetEverywhere.dll
+C:\Code\Packt_Exercises_C\Chapter07\DotNetEverywhere\obj\Release\net6.0\win10-x64\DotNetEverywhere.genruntimeconfig.cache
+C:\Code\Packt_Exercises_C\Chapter07\DotNetEverywhere\obj\Release\net6.0\win10-x64\ref\DotNetEverywhere.dll

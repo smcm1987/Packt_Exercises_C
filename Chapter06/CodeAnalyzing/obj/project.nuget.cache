@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Thpt4xRxw5bhab69exId3N9trDvl1nuYDfse+tGNQT6x0UrgUCLI14M/n6KXu1JPAwPxbhGsP7aZbEyGEcNBlA==",
+  "success": true,
+  "projectFilePath": "C:\\Code\\Packt_Exercises_C\\Chapter06\\CodeAnalyzing\\CodeAnalyzing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sam McM\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\3.3.3\\microsoft.codeanalysis.analyzers.3.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+id: Formatting
+language: CSharp
+name:
+  Default: Formatting
+qualifiedName:
+  Default: Formatting
+type: Assembly
+modifiers: {}
+items: []
+references: {}

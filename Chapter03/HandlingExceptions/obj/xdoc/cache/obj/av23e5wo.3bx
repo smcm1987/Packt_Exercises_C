@@ -1,0 +1,10 @@
+id: HandlingExceptions
+language: CSharp
+name:
+  Default: HandlingExceptions
+qualifiedName:
+  Default: HandlingExceptions
+type: Assembly
+modifiers: {}
+items: []
+references: {}

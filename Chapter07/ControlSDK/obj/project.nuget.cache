@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wbm2pi3ebQdpd9wiKQyLMxV8tT5gf7s2rBjpj+yscHZeCOK1e9dfyEUiBKOBHZ/Ik6HVHfIxrEfXf+FMhthMXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Code\\Packt_Exercises_C\\Chapter07\\ControlSDK\\ControlSDK.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sam McM\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Sam McM\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

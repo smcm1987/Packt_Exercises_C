@@ -1,0 +1,10 @@
+id: Exercise02
+language: CSharp
+name:
+  Default: Exercise02
+qualifiedName:
+  Default: Exercise02
+type: Assembly
+modifiers: {}
+items: []
+references: {}

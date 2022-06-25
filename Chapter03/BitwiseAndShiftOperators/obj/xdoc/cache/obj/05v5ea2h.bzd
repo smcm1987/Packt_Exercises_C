@@ -1,0 +1,10 @@
+id: BitwiseAndShiftOperators
+language: CSharp
+name:
+  Default: BitwiseAndShiftOperators
+qualifiedName:
+  Default: BitwiseAndShiftOperators
+type: Assembly
+modifiers: {}
+items: []
+references: {}

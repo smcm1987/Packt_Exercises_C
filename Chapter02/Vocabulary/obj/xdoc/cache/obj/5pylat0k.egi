@@ -1,0 +1,10 @@
+id: Vocabulary
+language: CSharp
+name:
+  Default: Vocabulary
+qualifiedName:
+  Default: Vocabulary
+type: Assembly
+modifiers: {}
+items: []
+references: {}

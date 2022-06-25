@@ -1,0 +1,15 @@
+C:\Code\Packt_Exercises_C\Chapter07\UsingPreviewFeatures\bin\Debug\net6.0\UsingPreviewFeatures.exe
+C:\Code\Packt_Exercises_C\Chapter07\UsingPreviewFeatures\bin\Debug\net6.0\UsingPreviewFeatures.deps.json
+C:\Code\Packt_Exercises_C\Chapter07\UsingPreviewFeatures\bin\Debug\net6.0\UsingPreviewFeatures.runtimeconfig.json
+C:\Code\Packt_Exercises_C\Chapter07\UsingPreviewFeatures\bin\Debug\net6.0\UsingPreviewFeatures.dll
+C:\Code\Packt_Exercises_C\Chapter07\UsingPreviewFeatures\bin\Debug\net6.0\UsingPreviewFeatures.pdb
+C:\Code\Packt_Exercises_C\Chapter07\UsingPreviewFeatures\obj\Debug\net6.0\UsingPreviewFeatures.csproj.AssemblyReference.cache
+C:\Code\Packt_Exercises_C\Chapter07\UsingPreviewFeatures\obj\Debug\net6.0\UsingPreviewFeatures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Packt_Exercises_C\Chapter07\UsingPreviewFeatures\obj\Debug\net6.0\UsingPreviewFeatures.AssemblyInfoInputs.cache
+C:\Code\Packt_Exercises_C\Chapter07\UsingPreviewFeatures\obj\Debug\net6.0\UsingPreviewFeatures.AssemblyInfo.cs
+C:\Code\Packt_Exercises_C\Chapter07\UsingPreviewFeatures\obj\Debug\net6.0\UsingPreviewFeatures.csproj.CoreCompileInputs.cache
+C:\Code\Packt_Exercises_C\Chapter07\UsingPreviewFeatures\obj\Debug\net6.0\UsingPreviewFeatures.dll
+C:\Code\Packt_Exercises_C\Chapter07\UsingPreviewFeatures\obj\Debug\net6.0\refint\UsingPreviewFeatures.dll
+C:\Code\Packt_Exercises_C\Chapter07\UsingPreviewFeatures\obj\Debug\net6.0\UsingPreviewFeatures.pdb
+C:\Code\Packt_Exercises_C\Chapter07\UsingPreviewFeatures\obj\Debug\net6.0\UsingPreviewFeatures.genruntimeconfig.cache
+C:\Code\Packt_Exercises_C\Chapter07\UsingPreviewFeatures\obj\Debug\net6.0\ref\UsingPreviewFeatures.dll

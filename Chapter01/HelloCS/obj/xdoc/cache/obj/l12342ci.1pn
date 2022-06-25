@@ -1,0 +1,10 @@
+id: HelloCS
+language: CSharp
+name:
+  Default: HelloCS
+qualifiedName:
+  Default: HelloCS
+type: Assembly
+modifiers: {}
+items: []
+references: {}

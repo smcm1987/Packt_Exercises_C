@@ -1,0 +1,13 @@
+C:\Code\Packt_Exercises_C\Chapter07\DotNetEverywhere\bin\Debug\net6.0\DotNetEverywhere.exe
+C:\Code\Packt_Exercises_C\Chapter07\DotNetEverywhere\bin\Debug\net6.0\DotNetEverywhere.deps.json
+C:\Code\Packt_Exercises_C\Chapter07\DotNetEverywhere\bin\Debug\net6.0\DotNetEverywhere.runtimeconfig.json
+C:\Code\Packt_Exercises_C\Chapter07\DotNetEverywhere\bin\Debug\net6.0\DotNetEverywhere.dll
+C:\Code\Packt_Exercises_C\Chapter07\DotNetEverywhere\obj\Debug\net6.0\DotNetEverywhere.csproj.AssemblyReference.cache
+C:\Code\Packt_Exercises_C\Chapter07\DotNetEverywhere\obj\Debug\net6.0\DotNetEverywhere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Packt_Exercises_C\Chapter07\DotNetEverywhere\obj\Debug\net6.0\DotNetEverywhere.AssemblyInfoInputs.cache
+C:\Code\Packt_Exercises_C\Chapter07\DotNetEverywhere\obj\Debug\net6.0\DotNetEverywhere.AssemblyInfo.cs
+C:\Code\Packt_Exercises_C\Chapter07\DotNetEverywhere\obj\Debug\net6.0\DotNetEverywhere.csproj.CoreCompileInputs.cache
+C:\Code\Packt_Exercises_C\Chapter07\DotNetEverywhere\obj\Debug\net6.0\DotNetEverywhere.dll
+C:\Code\Packt_Exercises_C\Chapter07\DotNetEverywhere\obj\Debug\net6.0\refint\DotNetEverywhere.dll
+C:\Code\Packt_Exercises_C\Chapter07\DotNetEverywhere\obj\Debug\net6.0\DotNetEverywhere.genruntimeconfig.cache
+C:\Code\Packt_Exercises_C\Chapter07\DotNetEverywhere\obj\Debug\net6.0\ref\DotNetEverywhere.dll

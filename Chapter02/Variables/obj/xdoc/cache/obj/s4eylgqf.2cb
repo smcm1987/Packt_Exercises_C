@@ -1,0 +1,10 @@
+id: Variables
+language: CSharp
+name:
+  Default: Variables
+qualifiedName:
+  Default: Variables
+type: Assembly
+modifiers: {}
+items: []
+references: {}
